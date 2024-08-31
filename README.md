@@ -1,16 +1,43 @@
-## Hi there 👋
+# Welcome to my Github! 👋
 
-<!--
-**VrMonterrey/VrMonterrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Alex, a passionate programmer with a keen interest in web development.
+My coding journey has led me to work extensively with Python, different frameworks (Django, Flask, FastAPI), I am also interested in JavaScript (JS), TypeScript (TS) and React.
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=VrMonterrey&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=VrMonterrey&theme=light&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api?username=VrMonterrey&langs_count=8&layout=compact" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslaw07&langs_count=8&layout=compact&theme=dark&bg_color=00000000&border_color=30363d&title_color=428ff2"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VrMonterrey&langs_count=8&layout=compact&theme=light&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="200px" align="center" style="min-height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VrMonterrey&langs_count=8&layout=compact" />
+  </picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+</div>
+
+---
+
+### What's Catching My Eye:
+
+📱 Want to further my knowledge in technologies I use (Python/JS)  
+🐹 Excited to dive into the world of Machine Learning  
+🚀 And continue to build amazing apps  
+
+### Feel free to explore my repositories and projects. If you have any questions or just want to connect, don't hesitate to reach out. Happy coding! 💻✨
+
