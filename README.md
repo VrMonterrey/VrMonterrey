@@ -32,6 +32,7 @@ My coding journey has led me to work extensively with Python, different framewor
 </div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VrMonterrey)
+
 ![Codewars](https://www.codewars.com/users/VrMonterrey/badges/large)
 
 ---
