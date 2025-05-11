@@ -31,7 +31,7 @@ My coding journey has led me to work extensively with Python, different framewor
     
 </div>
 
-https://www.codewars.com/users/VrMonterrey/badges/large?theme=light
+![Codewars](https://www.codewars.com/users/YOUR_USERNAME/badges/large)
 
 ---
 
