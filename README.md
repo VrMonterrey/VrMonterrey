@@ -31,10 +31,13 @@ My coding journey has led me to work extensively with Python, different framewor
     
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/VrMonterrey)
+<div align="center">
 
-![Codewars](https://www.codewars.com/users/VrMonterrey/badges/large)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/VrMonterrey)](https://leetcode.com/VrMonterrey)  
 
+[![Codewars](https://www.codewars.com/users/VrMonterrey/badges/large)](https://www.codewars.com/users/VrMonterrey)
+
+</div>
 ---
 
 ### What's Catching My Eye:
