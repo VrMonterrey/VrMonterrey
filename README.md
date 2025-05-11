@@ -30,8 +30,9 @@ My coding journey has led me to work extensively with Python, different framewor
 
     
 </div>
+---
 
-![Codewars](https://www.codewars.com/users/YOUR_USERNAME/badges/large)
+![Codewars](https://www.codewars.com/users/VrMonterrey/badges/large)
 
 ---
 
